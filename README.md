@@ -1,4 +1,5 @@
 # Tugas_UAS_Kelompok_Pembantai_24_SKS_Enkripsi 
+Cantyka Laily Sabila <br>
 Muhammad Syukron Jazila (231401007) <br>
 Rubayyi Hasnaz (231401019) <br>
 Muhammad Dzakwan Attaqiy (231401055) <br>
